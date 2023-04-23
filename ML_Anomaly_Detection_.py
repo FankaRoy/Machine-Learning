@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Apr 23 05:59:21 2023
-
-@author: FANKA
+All the codes from corresponding Jupyter Notebook.
 """
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -379,13 +376,3 @@ plt.legend(["residual", "z-score cutoff"]);
 find_anomalies(z_roll, cutoff_lower=-2, cutoff_upper=3)
 
 #%%
-
-
-
-
-
-
-
-
-
-
