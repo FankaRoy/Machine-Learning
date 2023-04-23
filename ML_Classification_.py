@@ -1,9 +1,12 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 23 09:32:10 2023
 
-@author: FANKA
+#================#
+# CLASSIFICATION #
+#================#
 """
+Python file adapted from the corresponding Jupyter Notebook
+"""
+# Run code each cell at a time!
 import seaborn as sns
 sns.set()
 
